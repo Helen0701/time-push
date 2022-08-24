@@ -7,7 +7,7 @@
 # 模板消息id，替换掉下方文字内容，不要删除双引号
 "template_id": "HNWczuOP4qAHYIN8njaiaY3iwYPh6kLCFonump7I1Rg",
 # 接收公众号消息的微信号（user-id），如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oHJNI68_nuBzQY5y2fToxIY6Mj_M"],
+"user": ["oHJNI68_nuBzQY5y2fToxIY6Mj_M","oHJNI65oN3sCiE4FqwZompFbgRSk"],
 # 信息配置
 # 所在省份
 "province": "山东",
